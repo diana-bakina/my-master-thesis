@@ -40,8 +40,28 @@ for file, group in df.groupby("file"):
     if len(char_map) < 2:
         continue  # Skip very short conversations
 
-    # Choose 2 random character positions to insert [BEEP]
-    beep_positions = random.sample(range(len(char_map)), 2)
+    # Build a map from row index to positions in char_map
+    row_to_positions = {}
+    for i, (row_idx, _, _) in enumerate(char_map):
+        row_to_positions.setdefault(row_idx, []).append(i)
+
+    unique_rows = sorted(row_to_positions.keys())
+    if len(unique_rows) < 11:
+        continue  # Not enough lines to ensure 10-line separation
+
+    # Randomly select the first row
+    first_row_idx = random.choice(unique_rows[:-10])
+    possible_second_rows = [r for r in unique_rows if abs(r - first_row_idx) >= 10]
+
+    if not possible_second_rows:
+        continue  # No valid second row
+
+    second_row_idx = random.choice(possible_second_rows)
+
+    # Pick random character positions from the selected rows
+    pos1 = random.choice(row_to_positions[first_row_idx])
+    pos2 = random.choice(row_to_positions[second_row_idx])
+    beep_positions = [pos1, pos2]
 
     # Create an empty column for beep-modified text
     group["text_with_beep"] = None
@@ -50,7 +70,7 @@ for file, group in df.groupby("file"):
         row_idx, word_idx, char_idx = char_map[pos]
         raw_text = group.loc[row_idx, "text"]
 
-        # Same safe check for beep injection
+        # Safe check
         if pd.isna(raw_text) or str(raw_text).strip().lower() == "none":
             continue
 
@@ -74,7 +94,10 @@ for file, group in df.groupby("file"):
     beep_rows.append(group)
 
 # Combine all modified groups
-df_with_beeps = pd.concat(beep_rows).reset_index(drop=True)
+df_with_beeps = pd.concat(beep_rows)
+
+# Explicit sort to preserve original order
+df_with_beeps = df_with_beeps.sort_values(["file", "line_id"]).reset_index(drop=True)
 
 # Save the result to CSV
 output_path = os.path.join(repo_root, "data", "bnc_with_beeps.csv")
