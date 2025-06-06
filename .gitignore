@@ -36,3 +36,5 @@ dist/
 
 # data
 data/
+!data/anonymized_ES-corpus.csv
+!data/anonymized_IS-corpus.csv
