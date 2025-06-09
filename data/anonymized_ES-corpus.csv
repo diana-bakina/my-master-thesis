@@ -1,0 +1,300 @@
+id,conversation_id,participant,turn_id,context,verbatim,words,unit_type,disfluency,laughter,clause,dependent_clause,"coordinate_clause
+",ellipsis,comments
+1,conversation_009901,participant_6,102,"Right before the signal, participant_9 notes that ""the strings should be in the middle,"" and participant_6 responds by clarifying that one of them already is ""in the middle."" Then he says ""Oh[BEEP]."" — apparently reacting to something he noticed or realized about the ""middle"" or the placement. The participants (participant_6, participant_9, participant_15, participant_2, and others) are in a home setting, discussing food for a cat (Reggie) and for birds, trying to hang or arrange some pieces (likely fat or food), while talking about various details like the best place to hang them, how to fix them so the cat can't reach them, etc. There's no precise information about the location or purpose of the gathering, other than it being a casual family/friendly home interaction.","participant_6: “It was in the mi , that one’s in the middle.”
+participant_9: “Yeah, that’s the only one.”
+participant_6: “Oh[BEEP].”
+participant_6: “Let’s see if we’ve got some funny feet on here.”",Oh,single_word,absent,absent,0,0,0,absent,
+2,conversation_009901,participant_6,163,"Just before the signal, they are discussing where to hang or place the food so that the cat (Reggie) doesn’t eat it and the birds can access it. participant_6 says “No somewhere” (162.0), and then adds, “Or <pause> no I don’t reckon they’re g[BEEP]onna come there do you?” (163.0) — expressing doubt that birds would actually come to that spot. The same domestic conversational setting as before. The participants are discussing the placement of bird food in a way that keeps it away from the cat while still accessible to birds.","participant_6: “No somewhere.”
+participant_6: “Or <pause> no I don't reckon they're g[BEEP]onna come there do you?”
+participant_9: “Oh no, cos Reg will eat it.”",Or <pause> no I don't reckon they're g[BEEP]onna come there do you?,full_sentence,absent,absent,3,2,0,present,"Post-Auxiliary Ellipsis (PAE). P. Miller, 2014"
+3,conversation_009903,participant_15,722,"Prior to the signal, there’s lively play and teasing: someone is pinching or tickling someone else, asking to be let go, laughing. In turn 722.0, the speaker gives an instruction — “you gotta put your hand in there” — likely continuing the game or trying to demonstrate what to do. A family/friendly setting with adults and children present (participant_9, participant_6, participant_15, Anon), engaging in playful activities and various conversations.","participant_15: “<unclear> you go[BEEP]tta put your hand in there.”
+participant_15: “<unclear>. Mum you <unclear>.”
+participant_15: “Lift me up here, lift me up there mum.”", you go[BEEP]tta put your hand in there.,full_sentence,absent,absent,1,0,0,absent,
+4,conversation_009903,participant_9,736,"Before the signal (turn 735.0), participant_9 says “That's enough now.” — indicating it’s time to stop the roughhousing. Then, in turn 736.0, she says: “Someon[BEEP]e's gonna get hurt,” warning that continuing may result in someone getting injured. The same home environment with teasing and physical interaction; participant_9 is trying to stop the play out of concern for safety.","participant_6: “Ooh.”
+participant_9: “That’s enough now.”
+participant_9: “Someon[BEEP]e’s gonna get hurt.”
+participant_9: “That’s enough now, Daniel.”",Someone’s gonna get hurt,full_sentence,absent,absent,1,0,0,absent,
+5,conversation_009905,participant_15,801,"A child (likely) is asking about an object they don’t understand. participant_6 has just said it's ""for Father Christmas."" The speaker responds with a simple one-word question — “Why?” — likely seeking explanation. This utterance continues the topic and interaction, following a question-answer format. It is contextually dependent on the preceding utterance, maintaining the flow of a real-time dialogue.","Anon 1 803.0 Dann[BEEP]y. 
+Unknown 804.0 He, he doesn't speak <unclear> 
+participant_9 805.0 And he already heard you swear.",Danny,single_word,absent,absent,0,0,0,absent,
+6,conversation_009905,participant_6,802,Participant calls Danny,"participant_15: “Why?”
+participant_6: “Cos he want[BEEP]s to know what sort of boy you are.”
+participant_2: “Danny.”
+participant_15: “He, he doesn’t speak <unclear>.”",Cos he wants to know what sort of boy you are,full_sentence,absent,absent,2,3,0,absent,
+7,conversation_009909,participant_3,904,"participant_3 is discussing payment and the scope of work with participant_9, likely in the context of cleaning windows or doing a job inside or outside the house. Before this line, he explicitly tells participant_9 not to clean certain doors, implying a narrowed scope of labor. The phrase with the beep defines the total price for the remaining work — “that’ll be the fifteen-pound lot.” It signals the closing of a negotiation or clarification of cost.","participant_3: “Don’t do that door.”
+participant_3: “Don’t do the front door.”
+participant_3: “Don’t do that door out there.”
+participant_3: “And that’ll be the fifteen p[BEEP]ound lot <unclear>.”
+participant_9: “Yeah okay yeah.”",And that'll be the fifteen pound lot <unclear>.,full_sentence,absent,absent,1,0,0,absent,
+8,conversation_009909,participant_15,930,"The speaker is explaining a decision to do something “from outside” instead of inside. He begins a sentence with “Cos it’ll be,” hesitates, and continues with “make it a bit easier.” The syntax is slightly broken, and the word “pause” seems to mark a moment of disfluency. The speaker appears to be justifying a practical choice in how to approach a task.","participant_15: “Actually I’ll do these from outside actually.”
+participant_15: “Cos it’ll be er <paus[BEEP]e> make it a bit easier.”
+participant_9: “Well you do it how you…”
+participant_15: “Okay.”",Cos it’ll be [pause] make it a bit easier,full_sentence,present,absent,1,0,0,absent,
+9,conversation_009910,participant_3,944,"participant_3 and participant_6 are having a conversation about a recent interaction — possibly with a doctor or authority figure. participant_6 mentions that someone asked him how his “last day” was, and he replied that he didn’t know. participant_3 appears to be clarifying something with a date: “First of December,” presumably referring to when something is supposed to happen or started. The sentence is fragmentary and likely elliptical — either a standalone clarification or a response to something implicit in participant_6’s previous turn.","participant_6: “She said how was the last day.”
+participant_6: “I said I don’t know.”
+participant_3: “First o[BEEP]f December <unclear>”
+participant_6: “Oh she said I, you can’t do that.”",First of December <unclear>,phrase,absent,absent,0,0,0,indeterminate,cannot interpret the presence of an ellipsis because the continuation of the phrase is unclear.
+10,conversation_009910,participant_6,947,participant_6 is recounting a conversation he had — likely with a doctor or official — regarding a procedural or administrative issue (possibly health-related). He builds a narrative in which he repeatedly says “I said…” as he recreates the dialogue. The beeped sentence appears at the tail end of a complex structure: “I thought it was stupid… for them to mess around like that.” It expresses frustration or criticism of perceived inefficiency.,"participant_6: “I said to her as how seeing I’m sixty one Christmas I said I I can’t, I thought it was stupid… for them to mess around like [BEEP]that.”
+participant_3: “Mm.”
+participant_6: “Trouble is none of them knows about I up there.”",I thought it was stupid… for them to mess around like that,full_sentence,present,absent,3,2,0,absent,
+11,conversation_018202,participant_14,143,"participant_14 and participant_1 are engaged in a casual, reflective conversation, possibly about life changes or work. participant_1 had just made a vague comment: “<unclear> lot of things.” participant_14 follows with “It’s going well.” The referent of “it” isn’t explicitly defined, but judging by the overall tone and subsequent topic (friend Andy), it may refer to life in general or participant_14’s job.","participant_1: “<unclear> lot of things.”
+participant_14: “It’s going wel[BEEP]l.”
+participant_1: “You and Andy?”
+participant_14: “Oh yeah.”",It’s going well,full_sentence,absent,absent,1,0,0,absent,
+12,conversation_018203,participant_14,308,"Before this line, participant_1 describes a teacher who would swing her paralyzed arm to hit students’ ears. participant_14 then says: “Just far enough to get your earhole[BEEP].” They are reminiscing about school, punishment, and teachers’ quirks.","participant_1        307        That's all she could move it really was
+participant_14        308        Just far enough to get your earhole[BEEP].
+participant_1        309        like that.
+participant_14        310        Yeah.",Just far enough to get your earhole.,phrase,absent,absent,1,1,0,present,
+13,conversation_018204,participant_1,535,"participant_1 and participant_14 are wrapping up a long and casual evening conversation, recounting a night out, drinking, gossip about neighbors, and humorous exchanges. Just before the beep, participant_1 had teased participant_14 about enjoying himself and drinking too much, saying, “Oh so you’ve had bloody supper have you?” and “Smell like a bloody brewery.” Then she laughingly announces: “I’m going to bed now,” with the beep landing on the word “laughing,” which is marked as paralinguistic context.","participant_14: “<unclear> home and <unclear>”
+participant_1: “<lau[BEEP]ghing>: [ I'm going to bed now ]”
+participant_14: “Have one more at yours before we… you know…”
+participant_1: “So participant_5’s gonna be in trouble.”",<lau[BEEP]ghing>: [ I'm going to bed now ],full_sentence,absent,present,0,0,0,absent,
+14,conversation_018204,participant_1,717,"participant_1 and participant_14 are discussing a distressing incident involving their neighbors — a young couple engaged in a loud, aggressive fight. participant_1 reports hearing screaming, swearing, and banging. Her utterance “She’s been screaming” comes at the peak of this account, emphasizing the woman’s extreme distress and forming part of a vivid depiction of domestic violence. The beep occurs mid-word (“been”).","participant_14: “What’ve they been up to now then?”
+participant_1: “Oh god!”
+participant_1: “She’s be[BEEP]en screaming.”
+participant_1: “He’s been <pause> reckon she must have locked herself up in the dark.”
+participant_1: “And the only place with a lock on is the bathroom…”",She’s been screaming,full_sentence,absent,absent,1,0,0,absent,
+15,conversation_018205,participant_14,837,"participant_1 brings participant_14 a cup of tea and thanks him. participant_14 responds with “Very kind of you,” a conventional phrase of politeness and gratitude. It functions as a closing turn in a small adjacency pair (offer/thanks → acknowledgment). The beep lands mid-phrase, during “you,” but the utterance is fully recoverable and highly formulaic.","participant_1: “There you are I’ve made you a cup of tea.”
+participant_1: “Thank you dear.”
+participant_14: “Very kind of [BEEP]you.”
+participant_1: “Are you sure you don’t want any breakfast?”",Very kind of you,phrase,absent,absent,0,0,0,absent,
+16,conversation_018205,participant_14,847,"participant_1 is concerned that participant_14 is skipping breakfast, warning him that he’ll be hungry. participant_14 justifies this by listing what he consumed the night before — tea, beer, and sandwiches. The beep occurs mid-pause (marked as <pause[BEEP]>) in the middle of a longer utterance. The structure is informal, with mild disfluency, but the communicative intent is clear: reassurance and self-justification.","participant_1: “You’ll be hungry.”
+participant_14: “<unclear>”
+participant_1: “Eh?”
+participant_14: “<unclear>”
+participant_1: “What do you mean good?”
+participant_1: “Don’t be silly.”
+participant_1: “What’s the point in getting really hungry?”
+participant_14: “<pause> Had me tea last night and <pause[BEEP]> the beer and <pause> <unclear> few sandwiches last night.”",Had me tea last night and <pause[BEEP]> the beer and <pause> <unclear> few sandwiches last night.,phrase,absent,absent,1,0,0,present,
+17,conversation_018206,participant_14,896,"participant_14 is explaining how he recognizes cars by their license plates. He posits that if someone swapped plates onto another car, he might momentarily think it’s a familiar car but then realize “it’s not the [BEEP]right car.” An everyday conversation about remembering number plates, moving them around, and how that would confuse him.","participant_1        893.0        I don't. <unclear>
+participant_14        894.0        It would probably throw me completely If you <unclear>
+participant_1                <unclear>
+participant_14        895.0        it would throw me completely if you put, if you changed some of the number plates over.
+participant_14        896.0        If you put Tina's number plate <pause> on another car <pause> and visa versa <pause> that would throw, I I'd probably look at it and think <pause> you know, oh somebody's got a new car or that looks familiar but it's not the [BEEP]right car so I wouldn't think about it.
+participant_14        897.0        Even though I know Tina's is C two one one Y C L <pause> if it was on a different car <pause> I'd probably look at it <pause> and think
+participant_1        898.0        Oh that's not right.",somebody's got a new car or that looks familiar but it's not the [BEEP]right car so I wouldn't think about it,full_sentence,absent,absent,4,0,3,absent,
+18,conversation_018206,participant_1,1365,"participant_1 and participant_14 are discussing Tina’s relationship with her car — specifically one she was encouraged to buy by participant_6. The tone is retrospective and slightly critical. participant_1 describes how Tina disliked the car from the beginning and refused to drive it. The discussion comes after a long sequence about finances, mortgages, and lifestyle challenges. The focus here is on personal preference and emotional response toward an object imposed by another.","participant_1: “She’d like to change the car.”
+participant_1: “She never liked that car.”
+participant_1: “She had a nice car before participant_6 made her have that more or less.”
+participant_1: “She didn’t want it.”
+participant_1: “She hated it at [BEEP]first, she wouldn’t drive it.”
+participant_1: “Noisy and clumsy, she didn’t like it at all.”
+participant_1: “She never has really.”","She hated it at first, she wouldn’t drive it. ",full_sentence,absent,absent,2,0,0,absent,
+19,conversation_018207,participant_1,1472,"participant_1 and participant_14 are engaged in a detailed comparison of flat layouts and dimensions. participant_1 is describing the sizes of different rooms, presumably from a printed listing or handwritten notes. The utterance containing the beep compares kitchen sizes. The phrase with the beep includes a mild disfluency: the measurement she gives as a “total” is actually smaller than the kitchen size she just stated, which may suggest a misstatement. The beep occurs mid-word, inside “totals.”","participant_1: “The lounge is fourteen by ten.”
+participant_1: “The bedroom is thirteen nine by nine <unclear> instead of eleven by eight.”
+participant_1: “That kitchen’s thirteen by five, that total[BEEP]s eleven by seven.”
+participant_14: “Neither here nor there is it?”","That kitchen’s thirteen by five, that totals eleven by seven.",full_sentence,absent,absent,2,0,0,absent,
+20,conversation_018207,participant_1,1508,"participant_14 is speculating about the economics of converting houses into flats. Just before the beep, he says that if someone had sold the houses individually, they’d likely get £40,000 apiece. participant_1 responds with a quick “Yeah,” showing agreement or affirmation. The utterance is extremely short, and the beep coincides precisely with the word.","participant_14: “They could be sixty thousand apiece.”
+participant_1: “[BEEP]Yeah.”
+participant_14: “Whereas if he had, if he sold them as separate houses he’d probably get forty thousand apiece.”
+participant_1: “Yeah that’s just <unclear> Yeah.”",Yeah,single_word,absent,absent,0,0,0,absent,
+21,conversation_018301,participant_1,1602,"participant_1 is recounting the situation around a property they are trying to buy. The group (participant_1, participant_14, and another interlocutor) is discussing a seller who isn’t enthusiastic about their offer. The conversation is collaborative and analytical, focused on pricing, the market, and financial viability. participant_1 opens the discussion with this line — setting the frame for what follows. The beep occurs in the very first word of her turn: “We”","participant_1: “W[BEEP]e have made him an offer but he's not very keen.”
+participant_2: “<unclear>”
+participant_14: “I don't think, I don't think he will.”
+participant_14: “He's not like that.”",We have made him an offer but he's not very keen.,full_sentence,absent,absent,2,0,1,absent,
+22,conversation_018301,participant_1,1618,"participant_1 continues the conversation about renting versus buying. After noting that they currently pay £250 a month in rent, she adds that this amount would cover a mortgage. The beep occurs just before the word “you.” This sentence strengthens the group's shared reasoning that their rent could be redirected toward ownership. It is a continuation of the economic comparison.","participant_1: “Well that's it.”
+participant_1: “I mean we're paying two hundred and fifty pound a month so at least he's getting that coming in.”
+participant_1: “But then [BEEP]you can really have a mortgage for that.”
+participant_2: “<unclear> and the thing is as well <unclear>”
+participant_1: “No.”
+participant_1: “But at the moment he's <pause> well he's not come back to us with any answer from our offer at all…”",But then you can really have a mortgage for that.,full_sentence,absent,absent,1,0,0,absent,
+23,conversation_018302,participant_14,1675,"participant_14, participant_1, and participant_10 are discussing the layout of a kitchen, trying to determine where a fridge might fit. The conversation revolves around whether there's space for a regular fridge or whether something more compact is required. participant_14 begins a hypothetical construction: “Unless you...”, repeating it before completing the thought. The beep occurs immediately after “Unless you,” before the rest of the sentence unfolds.","participant_10: “Or is it just an ordinary worktop one?”
+participant_1: “No just an ordinary fridge.”
+participant_14: “There isn't a fridge.”
+participant_1: “Well there will be.”
+participant_1: “Just an ordinary one.”
+participant_14: “Unless you[BEEP], unless you get the fridge in the <unclear> cupboard.”","Unless you…, unless you get the fridge in the <unclear> cupboard.",full_sentence,present,absent,1,1,0,absent,
+24,conversation_018302,participant_14,2016,"participant_14 and participant_10 are interacting with something mechanical—likely a door or lock. participant_10 asks for assistance, and participant_14 begins a sentence that seems intended to explain the issue. He starts with “Yeah it’s not…”, but doesn’t finish the thought before the turn shifts. The beep falls inside the word “it’s”.","participant_10: “Can you hold it here so it’s… I haven’t turned it round the other way.”
+participant_14: “Yeah it[BEEP]’s not…”
+participant_10: “It needs…”
+participant_14: “It needs, just needs a little bit of attention.”",Yeah it’s not,fragment,present,absent,1,0,0,absent,
+25,conversation_018303,participant_14,2048,"This occurs during a playful exchange after participant_2 mentions they were in the bath and not “decent” enough to open the door. participant_14 jokingly replies with a flirtatious and humorous offer, saying he could have washed their back if they’d let him in. The entire context is light-hearted and filled with laughter from multiple participants. The beep falls mid-word in “could.”","participant_2: “I wasn't quite decent and I thought well I'm not letting people in when I'm not decent.”
+participant_10: “Oh no.”
+participant_14: “If you'd have let me in I cou[BEEP]ld have washed your back for you.”
+(General laughter)",If you'd have let me in I could have washed your back for you,full_sentence,absent,absent,2,1,0,absent,
+26,conversation_018303,participant_2,2117,"The participants are inspecting a cupboard, described by participant_2 as an airing cupboard that doesn’t actually “air.” The speaker admits this frankly, continuing with a description of how cold the space is. The beep falls on a hesitation: “It’s [BEEP]er very cold,” where “er” is a filler (a hesitation, possibly a restart of ""it’s very cold"").","participant_14: “This is the airing cupboard in here is it?”
+participant_2: “It’s [BEEP]er very cold in there.”
+participant_1: “<unclear>”
+participant_14: “Well it’s good <pause> good, got a well-lagged tank.”",It’s er very cold in there.,full_sentence,present,absent,1,0,0,absent,
+27,conversation_018501,participant_5,6106,"The interaction begins with participant_14 exclaiming “Oh wow!”, likely in response to something surprising. participant_5 immediately follows with a socially conventional check-in: “Everything alright mate?” This is a classic informal question that serves a phatic (relational) function rather than seeking detailed information.","participant_14: “Oh wow!”
+participant_5: “Eve[BEEP]rything alright mate?”
+participant_1: “I dunno but I got a wonderful hand <pause> look wha I'll just show you for a start…”",Everything alright mate?,full_sentence,absent,absent,1,0,0,present,
+28,conversation_018501,participant_14,6118,"The conversation has shifted to what appears to be some form of casual game or counting/organizing activity, possibly involving cards or money (based on participant_1’s line about “thirteen pence”). participant_14 reacts to something or someone in the environment by pointing out that “There’s a big [unclear] up there.” The precise referent is unintelligible, but the phrase structure is intact.","participant_1: “Thirteen pence darling <pause> you owe me still.”
+participant_14: “There[BEEP]'s a big <unclear> up there.”
+participant_14: “Please.”",There’s a big [unclear] up there,full_sentence,absent,absent,1,0,0,indeterminate,
+29,conversation_018502,participant_14,6122,"participant_14, participant_1, and participant_2 are engaged in a card game, likely cribbage, based on point counting and terminology. This line follows participant_1 receiving something (""There you are dear"") and thanking the giver. participant_14 performs a point update and gently reminds someone (probably participant_1) about a balance: “you owe me thirteen pence.” The phrase is embedded in a series of game-related arithmetic turns.","participant_2: “There you are dear.”
+participant_1: “Thank you <pause> <unclear>”
+participant_14: “Now <pause> so that’s [BEEP]two each, you owe me thirteen pence yes?”","Now <pause> so that's two each, you owe me thirteen pence yes?",full_sentence,present,absent,2,0,0,absent,
+30,conversation_018502,participant_14,6136,"The BEEP appears at the beginning of 6137.0 (“<p[BEEP]ause> Say, yeah fifty four, right, fair enough”), so the relevant speech to annotate is from 6136.0. participant_14 is reflecting on the difference between playing in pairs versus singles, using hypothetical speech to describe what someone might say casually during a game. The group continues playing cards in a relaxed setting. participant_14 is engaged in commentary about behavior during different types of gameplay.","participant_14        6136.0        <pause> Play in pairs, it's different but <pause> when you're just playing singles, you can say <pause> or maybe you could sort of <pause> friends that go, you'd probably say something like, are you sure?
+participant_14        6137.0        <p[BEEP]ause> Say, yeah fifty four, right, fair enough"," Say, yeah fifty four, right, fair enough",full_sentence,present,absent,1,0,0,absent,
+31,conversation_018507,participant_14,6526,"participant_1 is reflecting aloud about some unclear rule or situation, ending with “probably not, every bit of it.” participant_14 responds with “Mm,” possibly to signal acknowledgement, agreement, or passive listening. The context is conversational but subdued, with participant_14 offering minimal verbal feedback. There is no further elaboration from him at that moment.","participant_1: “It doesn't say it has to be other people here <pause> probably not, every bit of it.”
+participant_14: “M[BEEP]m.”
+participant_1: “but”
+participant_14: “Some of it.”
+participant_1: “Mm.”",Mm,single_word,absent,absent,0,0,0,absent,
+32,conversation_018507,participant_14,6599,"participant_1 and participant_14 have finished playing a card game. participant_14 jokes about winning all her pennies, and participant_1 responds with the word “Cry.” participant_14 then asks “Really?” — a question that seems either sarcastic or teasing, possibly in response to her tone or expression. The interaction is clearly playful and emotionally expressive, with repeated “Cry, cry…” and laughter following.","participant_1: “Cry.”
+participant_14: “Now I’ve won all your pennies off you.”
+participant_1: “Cry.”
+participant_14: “You’re not are you?”
+participant_14: “Really[BEEP]?”
+participant_1: “Yeah.”
+participant_14: “Cry, cry…”",Really?,single_word,absent,absent,0,0,0,present,
+33,conversation_018603,participant_13,8433,"This occurs in a highly dynamic family interaction with multiple overlapping voices, children shouting, and frequent topic shifts. Just before the beep, participant_13 (a child) is calling for attention—“Nanny… these.” Then he shouts “Upstairs,” likely in response to a question or simply to indicate where something or someone is located. There’s no elaboration, and the beep occurs just before the word.","participant_13: “Nanny <unclear>!”
+participant_1: “What darling?”
+participant_13: “These.”
+participant_1: “The what?”
+participant_13: “[BEEP]Upstairs.”
+participant_11: “I think he means.”",Upstairs,single_word,absent,absent,0,0,0,present,
+34,conversation_018603,participant_8,8454,participant_1 and participant_8 are coordinating an errand—participant_8 is going into a store (Gateway) while participant_1 remains outside with a pushchair. participant_8 confirms where she’ll be by saying “I’ll be in Gateways then.” The beep lands mid-word on “then.” The utterance concludes a logistical exchange and is framed as a clear update or instruction.,"participant_1: “No, I'm not having in there, with the pushchair and the–”
+participant_8: “I'll be in Gateways the[BEEP]n.”
+participant_1: “I won't be a minute.”
+participant_8: “Quickly.”",I’ll be in Gateways then,full_sentence,absent,absent,1,0,0,absent,
+35,conversation_018604,participant_1,8550,"This moment occurs in a playful, high-energy part of the conversation with children present. participant_1 mimics the sound of a car horn, “Bib bib bib bib!”, in direct response to a child (Anna Marie) who had been doing the same. Immediately afterward, the child says, “I was being a car,” confirming the playful intent. The tone is light, performative, and interactional.","Anna Marie: “Bib bib bib!”
+participant_1: “Bib bib b[BEEP]ib bib!”
+Anna Marie: “I was being a car.”
+participant_1: “That was a car, yeah.”",Bib bib bib,fragment,absent,absent,0,0,0,absent,
+36,conversation_018604,participant_8,8610,"participant_8 is recounting a dramatic event — a car breakdown on a dual carriageway. The beep falls mid-sentence, just as she says “the car blew up.” This is clearly a central narrative moment, and the tone is animated and emphatic. The sentence is complete and part of a longer sequence of storytelling that involves multiple episodes and emotional content.","participant_8: “Alright <unclear> <pause> th the car blew [BEEP]up on a dual carriageway…”
+participant_11: “That's right.”
+participant_8: “a big bang <pause> I'm driving there's this great big bang and the bonnet lit up”",The car blew up on a dual carriageway,full_sentence,present,absent,1,0,0,absent,
+37,conversation_018905,participant_14,11865,"participant_1 and participant_14 are discussing preoccupations, mental activity before sleep, and stress around upcoming plans. participant_14 is reflecting on the experience of tossing and turning, anxious thoughts, and trying to fall asleep. In this moment, he addresses participant_1 with: “cos you have the same trouble,” framing their experience as shared. The beep occurs inside the word “have.”","participant_14: “Yeah you're sort of thinking… you know is everything gonna work out?”
+participant_14: “Carpets down and then we got their cooker and the fridge…”
+participant_1: “I know.”
+participant_14: “They just go through your mind, don't they?”
+participant_1: “What it's all gonna look like?”
+participant_14: “Will it look nice?”
+participant_14: “Will it fit and how tall is it…?”
+participant_14: “Will we be able to get in before the day…?”
+participant_14: “As you know, cos you h[BEEP]ave the same trouble.”","As you know, cos you have the same trouble",full_sentence,absent,absent,2,2,0,absent,
+38,conversation_018907,participant_1,11957,"participant_1 and participant_14 are reflecting on the stressful pace of recent events, likely involving a move or large purchase. participant_1 has just said, “All seems to have happened in such a rush.” participant_14 begins a qualifying reply but is interrupted by participant_1’s emotionally expressive and summarizing statement: “There’s so much to think about.” The beep lands right before the sentence begins.","participant_1: “All seems to have happened in such a rush.”
+participant_14: “Well yeah but–”[BEEP]
+participant_1: “There’s so much to think about.”
+participant_14: “I know.”",Well yeah but–,fragment,present,absent,0,0,0,absent,
+39,conversation_018907,participant_14,12053,"participant_1 is expressing reluctance to spend money on a stair carpet until other residents have moved in and taken responsibility. participant_14 responds with a minimal affirmation: “Yeah.” The beep occurs just before the word. participant_1 then continues, reinforcing the point about future necessity.","participant_1: “I'm not splashing out on stair carpet until somebody else has been in <unclear> as well.”
+participant_14: “[BEEP]Yeah.”
+participant_1: “Well there’s something that will have to be will be…”",Yeah,single_word,absent,absent,0,0,0,absent,
+40,conversation_018908,participant_1,12088,"participant_14 says, “I’ve gotta nip upstairs,” followed by a justification or softening statement. participant_1 responds with “Yep… that’s fine.” The beep lands inside the word “Yep,” a quick, relaxed affirmation. It occurs in a casual, cooperative domestic exchange.","participant_14: “I've gotta nip upstairs.”
+participant_1: “Er <pause> yes. <laugh>”
+participant_14: “Cos I <pause> wouldn't know <pause> I've done enough <pause> <unclear> okay?”
+participant_1: “Y[BEEP]ep <pause> that's fine.”",Y[BEEP]ep <pause> that's fine.,full_sentence,absent,absent,1,0,0,absent,
+41,conversation_018909,participant_1,12160,"participant_1 has been reflecting on her desire to be more independent — to go into town without relying on participant_14. She mentions getting a second-hand bicycle and expresses that this would allow her to “pop anywhere” without waking him. The beep lands mid-word on “independence,” within a well-formed and emotionally meaningful statement: “It'll give me a little independence as well.","participant_1: “…just for the occasional trip into town without getting Stuey out of bed… so I be a bit more independent than just bothering you all time, if I just wanna pop anywhere.”
+participant_14: “It isn't a great problem… not really.”
+participant_1: “No I know my but it <pause> it'll give me a little independen[BEEP]ce as well <pause> will it not?”
+participant_14: “You got a shop at the top of the road ain't you?”"," No I know my but it... it'll give me a little independence as well, will it not?",full_sentence,present,absent,1,0,0,present,
+42,conversation_018909,participant_1,12169,"This is a continuation of a conversation about local shops and accessibility. participant_14 had just mentioned the proximity of shops, and participant_1 agrees, adding that they are conveniently close to both (presumably Rainbow and Tesco). The beep occurs inside the word “pause” (likely a transcription error for an inline timing mark). The real surrounding phrase is: “Yeah… yeah that’s what I mean… we’re nearer to the both of them really.”","participant_14: “The new Tescos <unclear> won't be the other way will it?”
+participant_1: “The other way, no.”
+participant_14: “<unclear>”
+participant_1: “Yeah <pause> yeah that's what I mean it <paus[BEEP]e> we're nearer to the both of them really.”","Yeah, yeah, that's what I mean, it... we're nearer to the both of them really.",full_sentence,present,absent,2,0,0,absent,
+43,conversation_019101,participant_1,13213,"participant_1 is explaining how the wallpaper was laid improperly — the pieces didn’t match, and someone just placed a cut piece without care. She builds up to expressing strong refusal to do it herself in such a way. participant_14 responds in agreement. participant_1 and participant_14 are in conversation about decorating — specifically wallpapering and carpeting. They’re discussing technicalities, mistakes, and preferences. The setting is domestic and casual; the tone is practical with occasional emotion.","participant_1        13213.0        but it just knocked the cotton sticks out, just put the piece down, there's no [BEEP]way I'm gonna do this, so it doesn't matter does it?
+participant_14        13214.0        No.
+participant_1        13215.0        That's definitely, this is the raw bit and that's a bit of the end of the cut-off, probably have <unclear> the landing or something <pause> can use the rest of it through <unclear>
+","there's no way I'm gonna do this, so it doesn't matter does it?",full_sentence,absent,absent,4,2,1,present,
+44,conversation_019101,participant_1,13225,"participant_1 tells a narrative about wallpapering late into the night. She builds up a chain of justifications — “just a bit more,” “then I’ll go to bed” — ending with her wife reacting to how late it was. participant_1 then quotes her own response: “about an hour ago.” This is spoken in the form of a quoted reply to her wife's real question. The conversation remains personal and domestic, centered on DIY/home decorating. The participants are reminiscing, swapping stories. The tone here is humorous and anecdotal.","participant_1        13225        Certainly when we get settled in after Christmas that should be <unclear dur=10> and I'll shall say about six rolls <unclear> but I'll shall say six rolls <unclear dur=8> <pause> and just the <unclear> <pause> every time I get one roll of wallpaper up and you you'll think oh I'll do the rest tomorrow <unclear> just a bit more, then you get one more <unclear> looks alright there, <unclear> the other wall and er, I'm sat, I've been up all night doing this <unclear> shall do one more then I'll go a bed <pause> <unclear> <laugh>, I get from the wife bloody hell mother what time did you go to bed, a[BEEP]bout an hour ago <laugh>, couldn't leave it <pause dur=11> <unclear> <pause> <unclear> wallpaper.","bloody hell mother what time did you go to bed, a[BEEP]bout an hour ago",full_sentence,absent,absent,1,0,0,present,
+45,conversation_019202,participant_1,14191,"The participants are discussing plans for the day, involving estate agents, solicitors, and possible trips to family. Financial concerns and errands dominate the dialogue. The setting seems domestic and the topic practical and administrative. The conversation revolves around financial planning and spending related to a mortgage. participant_14 has just said “My house, my house, my <unclear>,” and participant_1 is responding with a statement about authorization and financial decision-making.",participant_1: “I sho[BEEP]uldn't think until you at least gone to the mortgage he's gonna give us authorization to spend his money.”,I shouldn't think until you at least gone to the mortgage he's gonna give us authorization to spend his money.,full_sentence,absent,absent,3,1,0,absent,
+46,conversation_019303,participant_14,14507,"The setting appears to involve both participant_14 and participant_1, along with a third participant (participant_2), likely in a formal or semi-formal setting, possibly financial or logistical (e.g., bank, estate office). They’re discussing timing, money transfers, and account details. participant_14 is commenting on something taking longer than expected — possibly a process or arrangement related to moving or settling something, as later turns refer to transferring money and getting in somewhere.",participant_14: “It looks like a littl[BEEP]e bit longer than we first <unclear>”,It looks like a little bit longer than we first,full_sentence,absent,absent,2,0,0,indeterminate,
+47,conversation_019501,participant_14,15924,"The pair appear to be out together, likely running errands or visiting someone. The mood is casual and cooperative, and they are in a car, completing the parking maneuver. participant_14 and participant_1 are in a vehicle, having just parked. They discuss where to park — near the fence — and participant_14 checks if their position is acceptable to participant_1.","participant_14        15922.0        Is that near enough?
+participant_1        15923.0        Yep.
+participant_14        15924.0        [BEEP]Yep?
+participant_14        15925.0        Yep that's <unclear> <pause>
+participant_1        15926.0        Is there one for participant_1 or not?
+participant_14        15927.0        There <pause> is, yes.",Yep?,single_word,absent,absent,0,0,0,absent,
+48,conversation_019504,participant_12,16099,"The speakers are discussing interactions at a shared workplace, likely a factory. They are recounting recent events, venting frustrations, and sharing commentary on coworkers. The atmosphere is informal and emotionally expressive. participant_12 is criticizing someone (likely a colleague) for being ineffective. He makes a sarcastic remark that this person is supposedly “good,” but clearly wasn’t keeping up with the others the previous night.","participant_12        16097.0        I think he's fucking horrible.
+participant_1        16098.0        <laugh> He went oh she's getting angry!
+participant_12        16099.0        He's meant to be good th[BEEP]at good he weren't fucking no good last night keeping up with us was he? <pause> <unclear>",He's meant to be good that good he weren't fucking no good last night keeping up with us was he?,full_sentence,present,absent,4,1,0,present,
+49,conversation_019504,participant_1,16190,"participant_12 and participant_1 are commenting on someone’s appearance or behavior. participant_12 says ""Doesn't she?"" and participant_1 gives a brief agreement with “Mm.”","participant_12	16189.0	Doesn't she?
+participant_1	16190.0	Mm. <pause[BEEP]>
+participant_12	16191.0	Oh dear. <pause>",Mm.,single_word,absent,absent,0,0,0,absent,
+50,conversation_049001,participant_7,12,"participant_4 asks participant_7 how much Christmas cake is left, and participant_7 responds that there is ""not much"" left. The beep occurs during this response.","participant_4	11.0	How much of that is left?
+participant_7	12.0	No[BEEP]t much.
+participant_4	13.0	Of the cake?
+participant_7	14.0	Not much.",not much,phrase,absent,absent,0,0,0,present,
+51,conversation_049002,participant_7,51,"participant_7 is discussing the ""Grace and Favour"" show with participant_4, confirming that it is a new series. The beep occurs during her explanation of the show’s continuity.","participant_4        47.0        new series altogether?
+participant_7        48.0        Yeah Gra .
+participant_7        49.0        Yeah, the similar <pause> carrying on
+participant_4        50.0        Oh.
+participant_7        51.0        fr[BEEP]om the Grace Brothers.
+participant_4        52.0        That should be <pause> rather nice.",from the Grace Brothers.,phrase,absent,absent,0,0,0,present,
+52,conversation_049002,participant_4,95,"participant_7 is commenting on a situation involving taking someone home, and participant_4 responds affirmatively with “Oh yeah!” This is a casual, acknowledging response. The beep falls right after participant_4’s “Oh yeah!”","participant_7        94.0        And then you can't have a drink cos you've got to take her haven't
+participant_4        95.0        Oh yeah! [BEEP]
+participant_7        96.0        you?
+participant_4        97.0        True.",Oh yeah!,phrase,absent,absent,0,0,0,absent,
+53,conversation_049003,participant_7,136,participant_7 and participant_4 are in the process of preparing or checking the marmalade. participant_7 is commenting on the state of the marmalade. She asks participant_4 if he thinks the swelling is going down.,"participant_7	135.0	<pause dur=6> Look!
+participant_7	136.0	I don't think it's, the swe , the s[BEEP]welling's going down at all do you?
+participant_4	137.0	No.","I don’t think it’s, the swe , the swelling’s going down at all do you?",full_sentence,present,absent,3,2,0,present,
+54,conversation_049003,participant_7,185,"The conversation seems to be about showing something to someone (perhaps a picture or an item) when they come home. participant_7 is reacting to participant_4’s previous remark, saying “I know she will!” with the beep occurring in the middle of her response.","participant_4        184.0        Well she'll want it in the house and all that!
+participant_7        185.0        I kno[BEEP]w.
+",I know.,full_sentence,absent,absent,1,0,0,absent,
+55,conversation_049004,participant_4,371,"participant_7 asks if the robin had any sultanas. participant_4 responds by commenting on how quick the robin is, saying ""He's a quick mover, ain't he?"" with the beep occurring during his comment.",participant_4: “Y[BEEP]eah.”,Yeah.,single_word,absent,absent,0,0,0,absent,
+56,conversation_049004,participant_7,409,"participant_7 is responding to participant_4's suggestion about visiting Madge and Tom. She offers a tentative reply, saying “Could do” with the beep happening at the beginning of her response.","participant_4        406.0        Well let's go down for the jars and then <pause> they can, see
+participant_7        407.0        They can take that.
+participant_4        408.0        see what they say for ten minutes.
+participant_7        409.0        [BEEP]Could do.
+",Could do.,fragment,absent,absent,0,0,0,present,
+57,conversation_049005,participant_4,765,participant_4 is reflecting on a story about his youth and how life hasn't changed much. The line “It doesn't change much” is a reflective remark following a long anecdote about life and people’s behaviors.,"participant_4: “It doesn't cha[BEEP]nge much.”
+participant_4: “I used to run, pick ladies smocks up down the tailors.”",It doesn't change much,full_sentence,absent,absent,1,0,0,absent,
+58,conversation_049005,participant_4,1011,"participant_7 is describing recent changes in their town, particularly the demolition of buildings near Downings factory. participant_4 responds with a minimal acknowledgment, “Mm,” during her explanation.","participant_7        1010.0        You know, oh I'm talking about the Newarks, er <pause> you know <pause> down that street
+participant_4        1011.0        [BEEP]Mm.",Mm,single_word,absent,absent,0,0,0,absent,
+59,conversation_049006,participant_7,1193,"The participants are having breakfast and casually observing things around them, such as food temperature and birds outside the window. participant_4 has been complaining that his tomatoes are cold. participant_7 responds with “Pige[BEEP]ons are down,” shifting the topic, possibly while observing birds outside.","participant_4	1192.0	<pause dur=8> It's cold, mine is.
+participant_7	1193.0	Pige[BEEP]ons are down.",Pigeons are down,full_sentence,absent,absent,1,0,0,absent,
+60,conversation_049007,participant_7,1458,"The couple is at home, going through a weekend TV guide. participant_7 and participant_4 are reviewing television listings, trying to decide what to watch. participant_4 just told her that Henry V is on from 2:40 to 4:55. participant_7 responds that it’ll finish “about two then, I should think[BEEP],” possibly referring to their meal timing.","participant_7        1455.0        What time is Henry the Eighth, the Fifth?
+participant_4        1456.0        That's er, two forty <pause> to, to five minutes to five.
+participant_7        1457.0        Ooh a bit after that.
+participant_7        1458.0        Finish about two then, I should thin[BEEP]k.
+participant_7        1459.0        I don't want it too early because we're late with breakfast this morning.
+","Finish about two then, I should think",full_sentence,absent,absent,2,0,0,absent,
+61,conversation_049007,participant_4,1608,"participant_4 and participant_7 are discussing television programs, specifically historical or biographical films. participant_4 is describing the plot of a film he wants to watch — “Breaking the Code.” He starts saying, “he bro[BEEP]ke the er…” referring to someone breaking a code. participant_7 affirms (“Mm”), and he continues with “Japanese code.”","participant_7        1605.0        <pause dur=6> Well what's that, Cicero?
+participant_4        1606.0        No, he he <pause> he he <pause> he has to break a code, you know, like
+participant_7        1607.0        Oh!
+participant_4        1608.0        he bro[BEEP]ke the er
+participant_7        1609.0        Mm.",he broke the er,fragment,present,absent,1,0,0,indeterminate,
+62,conversation_049008,participant_4,1815,"They are at home, sorting through papers and items, possibly related to participant_4's painting or scrapbook materials. participant_4 is searching for something and suddenly exclaims “Christ! It’s go[BEEP]ne.” participant_7 had just been telling him to be careful not to lose something again.","participant_4: “Christ!”
+participant_4: “It’s go[BEEP]ne.”
+participant_4: “There was a write up in the newspaper…”",It’s gone,full_sentence,absent,absent,1,0,0,absent,
+63,conversation_049008,participant_4,2065,"they are engaged in a relaxed debate about health and smoking, drawing examples from people like Winston Churchill. participant_4 and participant_7 are discussing cigars and cigarette smoking in relation to people they know and public figures. participant_4, after repeating the word “Cigars,” says “[BEEP]Oh.”","participant_7        2063.0        Cigars
+participant_4        2064.0        Cigars.
+participant_4        2065.0        [BEEP]Oh.
+participant_7        2066.0        Mm.
+",Oh,single_word,absent,absent,0,0,0,absent,
+64,conversation_049201,participant_4,2164,"participant_4 and participant_7 are troubleshooting a recording device. participant_4 comments on how many things can go wrong and says, “You’ve gotta [BEEP]watch it all.”","participant_7        2162.0        Well it's funny it's working this time int it? <pause>
+participant_4        2163.0        Well there's so many things to go wrong int there?
+participant_4        2164.0        You've gotta [BEEP]watch it all.
+participant_4        2165.0        <pause dur=8> Is there any, do they want any bread?",You’ve gotta watch it all,full_sentence,absent,absent,1,0,0,absent,
+65,conversation_049201,participant_7,2201,"participant_7 is asking participant_4 if he wants cake with his second cup of tea. participant_4 agrees, and she starts to say “There[BEEP]’s not…” before he continues the conversation.","participant_7	2199.0	Now do you want any cake with that second cup of tea?
+participant_4	2200.0	Yes I'll have a slice.
+participant_7	2201.0	There[BEEP]'s not
+participant_4	2202.0	Have you got much left?
+participant_7	2203.0	Yeah there's half of it left.",There’s not,fragment,absent,absent,0,0,0,absent,
+66,conversation_049203,participant_4,3164,participant_4 and participant_7 are discussing a Walkman that someone named Jackie has. participant_7 is explaining that people use them to listen to the radio. participant_4 responds with “Oh aye I [BEEP]see what you…”,"participant_4        3162.0        Yes but you can tape <unclear>
+participant_7        3163.0        I know but if you're out.
+participant_4        3164.0        Oh aye I [BEEP]see what you
+",I see what you,fragment,present,absent,1,1,0,absent,
+67,conversation_049203,participant_4,3550,"They are preparing to do some gluing or craft-related task, and discussing which cloth to use to protect the table. participant_7 is looking for a specific yellow cloth, and participant_4 says, “Didn’t know we had one.” He then continues, “No I didn’t, n[BEEP]ot recently anyway,” clarifying or reinforcing his earlier statement.","participant_7	3548.0	That yellow one, where's that yellow one gone?
+participant_4	3549.0	Didn't know we had one.
+participant_4	3550.0	<pause> No I didn't, n[BEEP]ot recently anyway.","No I didn’t, not recently anyway.",full_sentence,absent,absent,1,0,0,present,
+68,conversation_049204,participant_7,3607,"They are continuing the conversation about organizing albums or tapes. participant_4 is making decisions independently, and participant_7 says: “You never take advice fr[BEEP]om me.”","participant_4        3605.0        I always do.
+participant_7        3606.0        I know you do.
+participant_7        3607.0        You never take advice fr[BEEP]om me.
+participant_7        3608.0        You haven't numbered that one.
+participant_4        3609.0        Haven't I?",You never take advice from me,full_sentence,absent,absent,1,0,0,absent,
+69,conversation_049205,participant_7,3657,"participant_7 just realized she forgot to take the chicken out of the fridge the night before, which disrupts their plan for dinner. She says, “we can't have dinner so—” and before she continues, participant_4 replies with “Oh dear.”","participant_7        3656.0        Well do you know what, I forgot to take the chicken out of the fridge last night so <pause> we can't have dinner so
+participant_4        3657.0        Oh dear.[BEEP]
+participant_7        3658.0        too early.",Oh dear.,phrase,absent,absent,0,0,0,absent,
+70,conversation_049205,participant_4,3674,"They are exchanging humorous suggestions about breakfast or lunch. participant_7 has been asking participant_4 what he wants to eat. After some playful joking (“burnt chicken,” “chicken fricassee”), he continues the game and adds: “er lightly done kippers on one [BEEP]side.”","participant_7        3669.0        Anyway what are you going to have?
+participant_4        3670.0        Burnt chicken
+participant_7        3671.0        <unclear> no I'm talking now
+participant_4        3672.0        chicken fricassee
+participant_7        3673.0        I'm not talking, that's silly.
+participant_4        3674.0        er lightly done kippers on one [BEEP]side.
+participant_7        3675.0        Ooh.",er lightly done kippers on one side,phrase,present,absent,0,0,0,present,
+71,conversation_049206,participant_7,3708,"The couple is reorganizing storage at home. participant_4 suggests storing wine glasses in a chest. participant_7 immediately disagrees and says, “No yo[BEEP]u can't.”","participant_4	3705.0	What about the chest, empty the chest?
+participant_7	3706.0	No you can't have gl wine glasses in there.
+participant_4	3707.0	Well I should have thought so.
+participant_7	3708.0	No yo[BEEP]u can't.",No you can't,full_sentence,absent,absent,0,0,0,present,
+72,conversation_049206,participant_4,3724,They’re working together on organizing or updating a photo album or archive system. participant_7 has just asked participant_4 whether he's keeping the index up to date. participant_4 begins to respond with hesitation: “[BEEP]Er well…”,"participant_7        3723.0        Yeah are you keeping the index <pause> up to date now?
+participant_4        3724.0        [BEEP]Er well
+participant_7        3725.0        I mean on there, how far have you got?
+participant_4	3726.0	I've got all that.",Er well,phrase,present,absent,0,0,0,absent,
+73,conversation_049301,participant_4,3804,"They are at home, having a playful exchange about drinks. participant_7 has just asked participant_4 if he’s ready for coffee. participant_4 jokes, “Yes, or something stronger.” participant_7 tells him to say what he wants. participant_4 responds with “[BEEP]show me the menu,” continuing the joking tone.","participant_15        3801.0        Are you ready for coffee yet?
+participant_4        3802.0        Yes, or something stronger.
+participant_7        3803.0        Well , well do, wha say what you want.
+participant_4        3804.0        Er <pause> sh[BEEP]ow me the menu.
+participant_7        3805.0        <laughing>:[ Don't be silly ]!",Er <pause> show me the menu,full_sentence,present,absent,1,0,0,absent,
